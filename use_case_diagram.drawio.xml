@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T19:54:04.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M9u_XqRHBC9yZIY-7QDl" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T20:00:56.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iTF-5-EW7Yr4OPX3bCdQ" version="21.1.2" type="github">
   <diagram name="Page-1" id="ao-ZEIoQAykmJnrHtXj1">
     <mxGraphModel dx="1222" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="6r-vhIaK0TzWZzU43Oo_-15" value="HVAC System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="555" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r-vhIaK0TzWZzU43Oo_-16" value="Enter building&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6r-vhIaK0TzWZzU43Oo_-16" value="Enter the Facility" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="330" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="6r-vhIaK0TzWZzU43Oo_-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.302;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6r-vhIaK0TzWZzU43Oo_-17" target="6r-vhIaK0TzWZzU43Oo_-23" edge="1">
