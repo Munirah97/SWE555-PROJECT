@@ -27,9 +27,9 @@ def isr ():
     input = int(input1)
     print("input = {}".format(input))
     if  input > 0 :
-        digitalWrite(5, HIGH)
+        digitalWrite(5, HIGH) # On State Logo 
     else:
-        digitalWrite(5, LOW)
+        digitalWrite(5, LOW) # Off state logo
 
 # main loop
 def loop ():
@@ -50,3 +50,4 @@ if __name__ == "__main__":
         loop()
         sleep(0)
         
+
