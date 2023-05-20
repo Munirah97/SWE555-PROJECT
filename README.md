@@ -8,13 +8,14 @@ VMS is a an embedded solution that focuses on making visitors experience better,
 
 Requirements
 ------------
-- Create an account in [SkillsForAll](https://skillsforall.com) or [Cisco Academy](https://www.netacad.com)
-- The Lastest Version of [Cisco Packet Tracer](https://skillsforall.com/resources/lab-downloads?courseLang=en-US)
-- Packet tracer is compatiple with these `OS` Only: Linux, Windows, MAC OS 
+The implementation was made through simulation software, the steps to download the software as follows: 
+1.  Create an account in [SkillsForAll](https://skillsforall.com) or [Cisco Academy](https://www.netacad.com)
+2.  The Lastest Version of [Cisco Packet Tracer](https://skillsforall.com/resources/lab-downloads?courseLang=en-US)
+3.  Packet tracer is compatiple with these `OS` Only: Linux, Windows, MAC OS 
  
 How to Run
 ----------
-- Clone this respiratory Through Git or by downloading Zip file.
+- Clone this respiratory through Git or by downloading Zip file.
 - Run `SWE Project Simulation.pkt` through Cisco Packet Tracer. 
 - Make Sure all MCUs and sensors are running by double clicking them, hitting advanced settings at the righ-down corner, and choosing Programming Tab.
 - Make Sure that environemt Simulation Time Scale is set to 1 Second(s) is equal to 30 simulated Minute(s) to notice changes over time.
