@@ -23,5 +23,5 @@ How to Run
 
 # Credit
 - [Munirah Al Shehab](https://github.com/Munirah97)
-- [Ahmed Jawad Al Saeed](https://github.com/frangarcj/vita-shader-collection)
+- [Ahmed Jawad Al Saeed](https://github.com/ahmmedalsaeed?tab=repositories)
 - [Hadi Ebraheem Almansour](https://github.com/iHaiDeeZ)
